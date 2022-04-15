@@ -10,7 +10,7 @@ package com.yang.creation.protorype;
  * @version 1.0.0
  * @date 2022年03月23日
  */
-public class ProtortypeDemo {
+public class PrototypeDemo {
 
     public static void main(String[] args) {
         ShapeCache.LoadShape();
